@@ -41,9 +41,9 @@ MORSECommunication System is designed for encoding and decoding messages using M
 # [Optional] more specific Topics (+ sample sub-categories)
 
 # Contacts 👥
-- **Wiktoria Bielecka:**
-- **Piotr Eliks:**
-- **Maciej Kordek:** Programmer (decoding)
-- **Miłosz Klim:** Programmer (encoding)
+- **Wiktoria Bielecka:** Backend programmer (decoding), readme.md creator
+- **Piotr Eliks:** Fullstack developer (encoding), repository manager
+- **Maciej Kordek:** Backend programmer (decoding)
+- **Miłosz Klim:** Backend programmer (encoding)
 
 ### Spostrzezenia
