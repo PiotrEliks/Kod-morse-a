@@ -1,4 +1,5 @@
 # MORSECommunication System 
+![logo](src/assets/logo.png)
 # Table of Contents 📖
 1. About
 2. Technologies
